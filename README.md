@@ -31,6 +31,8 @@
 │   ├── shifted_imag.raw  
 │   ├── shifted_power.raw  
 │   └── shifted_real.raw  
+├── .gitignore  
+├── README.md  
 ├── assignment1  
 ├── assignment1.c  
 ├── assignment2  
