@@ -8,7 +8,7 @@
 
 ## プロジェクトについて
  
-フーリエ変換で画像のノイズを除去するプログラムを作成しまた。
+フーリエ変換で画像のノイズを除去するプログラムを作成しました。
 
 ## ディレクトリ構成
 .  
@@ -21,7 +21,7 @@
 │   ├── real.bmp  
 │   ├── shifted_imag.bmp  
 │   ├── shifted_power.bmp  
-│   └── shifted_real.bmp 
+│   └── shifted_real.bmp  
 ├── OutputRaw  
 │   ├── imag.raw  
 │   ├── log_power.raw  
@@ -31,20 +31,20 @@
 │   ├── shifted_imag.raw  
 │   ├── shifted_power.raw  
 │   └── shifted_real.raw  
-├── assignment1
+├── assignment1  
 ├── assignment1.c  
-├── assignment2 
-├── assignment2.c
-├── assignment3 
-├── assignment3.c
-├── assignment4 
-├── assignment4.c
-├── dft.c
-├── dft.h
-├── file_processing.c
-├── file_processing.h
-├── image_size.h
-└── noiseaddimage.256 
+├── assignment2  
+├── assignment2.c  
+├── assignment3  
+├── assignment3.c  
+├── assignment4  
+├── assignment4.c  
+├── dft.c  
+├── dft.h  
+├── file_processing.c  
+├── file_processing.h  
+├── image_size.h  
+└── noiseaddimage.256  
 
 ### 動作確認
 
